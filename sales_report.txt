@@ -1,0 +1,16 @@
+===   Sales Report   ===
+
+Overall Total Revenue: 1749.32
+Highest Revenue Day: 2026-01-17 -> $579.8
+
+---   Product Revenue   ---
+
+Widget A: $779.61
+Widget B: $719.76
+Widget C: $249.95
+
+---   Product Quantity   ---
+
+Widget A: 39
+Widget B: 24
+Widget C: 5
